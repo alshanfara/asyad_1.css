@@ -1,1 +1,0 @@
-# asyad_1.css

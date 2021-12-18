@@ -1,0 +1,14 @@
+$(`<style> 
+
+html, body {
+    background-image: url(https://www13.0zz0.com/2021/12/18/21/487124462.jpeg)!important;
+}
+.bg {
+    display: none;
+}
+
+
+
+
+
+</style>`).insertBefore('body');
